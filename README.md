@@ -8,6 +8,6 @@ Student at Mines Nancy (FR), currently in exchange at Polytechnique Montréal (C
 
 ## How to reach me
 
-antoine.toussaint2002@gmail.com
+me@antoinet.dev
 
 
